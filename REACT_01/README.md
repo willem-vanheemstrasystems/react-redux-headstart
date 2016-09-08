@@ -3,3 +3,4 @@ React 01
 
 Based on 'A React-Redux Example App' at http://blog.krawaller.se/posts/a-react-redux-example-app/
 
+The url for the app is http://blog.krawaller.se/riastart2015/, and the source code is at https://github.com/krawaller/riastart2015.
